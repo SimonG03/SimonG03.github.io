@@ -4,7 +4,7 @@
 Etudiant de 20 ans à l'IUT Bordeaux Montaigne, je suis en troisème et dernière année de Bachelor Universitaire et Technologique en section Information numérique et communication au sein des organisations. 
 
 ## Diplomes 
-- **2023:** Titulaire d'un DUT en information numérique
+- **2023:** Titulaire d'un DUT en information numérique à l'IUT Bordeaux Montaigne
 - **2021** Titulaire d'un Baccalauréat général spécialité Mathémathiques et Sciences économoiques et sociales au Lycée Pape Clément à Pessac 33318
 
 ## Expériences professionelles
@@ -21,7 +21,7 @@ Etudiant de 20 ans à l'IUT Bordeaux Montaigne, je suis en troisème et dernièr
 - Recherche dinformation
 - Rédactionnel
 
-### Centres d'intérêts 
+## Centres d'intérêts 
 - Cinéma
 - Sports
 - Musique
